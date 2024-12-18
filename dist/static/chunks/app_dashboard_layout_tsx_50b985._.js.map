@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/KevinHehn/repos/Skiller/skiller-frontend/app/dashboard/layout.tsx"],"sourcesContent":["\"use client\";\r\nimport { ThemeProvider } from \"../material\";\r\n\r\nexport default function RootLayout({\r\n    children,\r\n}: {\r\n    children: React.ReactNode;\r\n}) {\r\n    return (\r\n        <html lang=\"en\">\r\n            <body className=\"flex\">\r\n                <ThemeProvider>\r\n                    <MultiLevelSidebar />\r\n                    <main className=\"flex-1 p-4\">\r\n                        {children}\r\n                    </main>\r\n                </ThemeProvider>\r\n            </body>\r\n        </html>\r\n    );\r\n}"],"names":[],"mappings":";;;;AACA;AAAA;AADA;;;AAGe,SAAS,WAAW,EAC/B,QAAQ,EAGX;IACG,qBACI,6LAAC;QAAK,MAAK;kBACP,cAAA,6LAAC;YAAK,WAAU;sBACZ,cAAA,6LAAC,2JAAA,CAAA,gBAAa;;kCACV,6LAAC;;;;;kCACD,6LAAC;wBAAK,WAAU;kCACX;;;;;;;;;;;;;;;;;;;;;;AAMzB;KAjBwB"}},
-    {"offset": {"line": 59, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
