@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 55, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/KevinHehn/repos/Skiller/skiller-frontend/pages/dashboard/overview.tsx"],"sourcesContent":["export default function Overview() {\r\n    return <div>Overview</div>\r\n}"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBAAO,qKAAC;kBAAI;;;;;;AAChB"}},
+    {"offset": {"line": 69, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
